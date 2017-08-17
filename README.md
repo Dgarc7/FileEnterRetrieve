@@ -7,6 +7,11 @@ On top of that, a Pattern funcionality will later be
 placed into this class so that regex can also be used when
 searching through files.
 
+***NOTE: When using the test classes provided, please
+take note that the Enter test must be used before the
+Retrieve test. This was done to show that each can be done
+seperately.
+
 ***NOTE: Anything that has been commented out was left there
 as a guide for anyone who may decided to take the route
 of leaving any writers/readers inside of the actual class.
